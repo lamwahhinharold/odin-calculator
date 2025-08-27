@@ -81,3 +81,7 @@ button {
 .operator-button {
   background-color: #ff9500;
 }
+
+.operator-button:focus {
+  background-color: #ffe600;
+}
