@@ -7,3 +7,5 @@ This project is aimed at making an on-screen calculator using JavaScript, HTML, 
 ## Live Demo
 
 [Live Site](https://lamwahhinharold.github.io/odin-calculator/)
+
+![Screenshot](./images/screenshot.png)
